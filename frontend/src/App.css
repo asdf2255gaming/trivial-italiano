@@ -1,0 +1,14 @@
+
+.App {
+  min-height: 100vh;
+}
+
+::selection {
+  background: rgba(236, 72, 153, 0.25);
+}
+
+/* Dark mode base */
+html.dark body {
+  background: #0b1120;
+  color: #e2e8f0;
+}
